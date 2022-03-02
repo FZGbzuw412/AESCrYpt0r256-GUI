@@ -23,6 +23,7 @@ class Ui_MainWindow(QtWidgets.QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Drag and Drop")
+        self.setWindowIcon(QIcon('chain.ico'))
         self.setFixedSize(485, 550)
         self.setAcceptDrops(True)
     
