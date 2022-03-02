@@ -168,7 +168,7 @@ if __name__ == '__main__':
     quitAction.triggered.connect(qApp.quit)
 
     # Creating icon
-    icon = QIcon.fromTheme("system-help", QIcon(r'C:\Users\user\Desktop\CalcProject\icon.ico'))
+    icon = QIcon.fromTheme("system-help", QIcon('chain.ico'))
 
     # Creating tray
     trayIcon = QSystemTrayIcon(icon, app)
