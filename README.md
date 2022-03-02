@@ -10,16 +10,39 @@ Authomatical encryption/decryption of files with GUI
 + PyQt5 library
 + PyAesCrypt library
 
-## Usage
+## Usage for Windows
 ```
 #clone or download zip archive
 git clone https://github.com/FZGbzuw412/AESCrYpt0r256-GUI.git
 
-# go to directory with files
+#go to directory with files
 cd AESCrYpt0r256-GUI 
 
 #install essential requirements
 pip3 install -r requirements.txt
+```
+
+## Usage for Linux
+```
+#clone or download zip archive
+git clone https://github.com/FZGbzuw412/AESCrYpt0r256-GUI.git
+
+#go to directory with files
+cd AESCrYpt0r256-GUI
+
+#install essential requirements
+pip3 install -r requirements.txt
+
+#launch
+python3 AESCrYpt0r256.py
+
+#----------------- CREATE BINARY FILE --------------------------#
+
+#install dos2unix in order to create binary file
+sudo apt-get install dos2unix
+
+#launch binary file
+./AESCrYpt0r256.py
 ```
 
 ## Screenshots
