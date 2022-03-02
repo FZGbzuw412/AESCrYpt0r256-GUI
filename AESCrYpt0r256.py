@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from PyQt5 import QtCore, QtWidgets
 import sys, ctypes
 import pyAesCrypt
