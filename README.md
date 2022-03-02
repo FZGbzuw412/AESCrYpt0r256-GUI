@@ -41,6 +41,9 @@ python3 AESCrYpt0r256.py
 #install dos2unix in order to create binary file
 sudo apt-get install dos2unix
 
+#create binary file from .py file
+dos2unix AESCrYpt0r256.py
+
 #launch binary file
 ./AESCrYpt0r256.py
 ```
