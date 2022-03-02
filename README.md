@@ -26,9 +26,9 @@ pip3 install -r requirements.txt
 
 ![python_6bqjfNqbkX](https://user-images.githubusercontent.com/92334349/156406765-564d19d0-2933-40c8-9a1b-2d079794820d.png)
 <br/> 
-![изображение](https://user-images.githubusercontent.com/92334349/156406623-971cb1a6-777f-4abe-b3a2-8a8a8d287c32.png)
+![изображение](https://user-images.githubusercontent.com/92334349/156407665-f3a2f384-e088-441e-8edc-707a380d4f48.png)
 <br/> 
-![изображение](https://user-images.githubusercontent.com/92334349/156406896-934c4b24-e0ec-46d3-a122-2e43323ba666.png)
+![изображение](https://user-images.githubusercontent.com/92334349/156407402-f0d074df-2d1c-4ded-9ff0-b4b4efb11b9b.png)
 
 ## Contacts
 If you have any suggestions concerning this project refer to FZGbzuw412a@protonmail.com
